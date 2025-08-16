@@ -34,12 +34,12 @@ cd C-Based-Chatbot-mini-Project
 ```
 ---
 
-# Compile
+## Compile
 gcc chatbot.c -o chatbot
 
 ---
 
-# Run
+## Run
 ./chatbot       # On Windows, use: chatbot.exe
 
 
