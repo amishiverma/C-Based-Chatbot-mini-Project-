@@ -31,3 +31,15 @@ This project is a **C-based console chatbot** that responds to common customer q
 ```bash
 git clone https://github.com/amishiverma/C-Based-Chatbot-mini-Project.git
 cd C-Based-Chatbot-mini-Project
+```
+---
+
+# Compile
+gcc chatbot.c -o chatbot
+
+---
+
+# Run
+./chatbot       # On Windows, use: chatbot.exe
+
+
