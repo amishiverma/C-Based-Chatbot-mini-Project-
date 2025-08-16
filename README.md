@@ -42,4 +42,24 @@ gcc chatbot.c -o chatbot
 ## Run
 ./chatbot       # On Windows, use: chatbot.exe
 
+## Usage
+
+Welcome to the customer service portal
+How can I help you:
+User: Hi
+Bot: Hi dear customer
+User: I have a doubt.
+Bot: I understand. Please feel free to share your doubt, and I'll do my best to assist you.
+User: What are the shipping options?
+Bot: same day delivery=119 rupees
+     one day delivery=100 rupee
+     standard delivery=40 rupee
+User: How can I track my package?
+Bot: step1.go to your order
+     step2.click on the order you want to track
+     step3.select track package next to your order
+     step4.select all updates to view your order
+
+
+---
 
